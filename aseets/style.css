@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+box-sizing: border-box;
+}
+
+.team-heading{
+background-color:#e847c0;
+color: #fff;
+}
+
+.card-header{
+    background-color: #0077F7;
+    color: #cc0bf3;
+}
+
+.card{
+    margin:20px;
+}
