@@ -1,4 +1,4 @@
- # Live website : https://fadumasaidcodes.github.io/Team-Profile-Generator/
+ # [Live website](https://fadumasaidcodes.github.io/Team-Profile-Generator/)
 
 # Team-Profile-Generator
 # Module 12 Object-Oriented Programming: Team Profile Generator
