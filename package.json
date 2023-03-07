@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "jest": "^29.5.0"
+  },
+  "name": "team-profile-generator",
+  "description": "## My Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/fadumasaidcodes/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadumasaidcodes/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/fadumasaidcodes/Team-Profile-Generator#readme"
+}
