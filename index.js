@@ -1,7 +1,8 @@
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
-const inquirer = require("inquirer");
+const inquirer = require('inquirer');
+
 const path = require("path");
 const fs = require("fs");
 
@@ -56,7 +57,7 @@ function start() {
         createTeam();
       });
   }
-// function to create the engineer
+  // function to create the engineer
   function createEngineer() {
     inquirer
       .prompt([
@@ -98,7 +99,7 @@ function start() {
         createTeam();
       });
   }
-// function to create the intern
+  // function to create the intern
   function createIntern() {
     inquirer
       .prompt([
@@ -140,7 +141,7 @@ function start() {
         createTeam();
       });
   }
-// create team function that is called after every employee created and creates a new employee based on users input.
+  // create team function that is called after every employee created and creates a new employee based on users input.
   function createTeam() {
     inquirer
       .prompt([
@@ -164,7 +165,7 @@ function start() {
         }
       });
   }
-// function that populates HTML document with relevant information.
+  // function that populates HTML document with relevant information.
   function buildTeam() {
     if (!fs.existsSync(OUTPUT_DIR)) {
       fs.mkdirSync(OUTPUT_DIR);
