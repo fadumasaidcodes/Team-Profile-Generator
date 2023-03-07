@@ -63,7 +63,8 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 ---
 ## screenshots 
-![Screenshot 2023-03-07 at 23 27 03](https://user-images.githubusercontent.com/102771343/223578588-64152d03-239f-4e3b-94fc-bba4fdf0d35d.png)
+![Screenshot 2023-03-07 at 23 31 50](https://user-images.githubusercontent.com/102771343/223579498-bb79bf08-7b06-4a1b-aaf7-8c1a069c01e1.png)
+
 ![Screenshot 2023-03-07 at 23 27 53](https://user-images.githubusercontent.com/102771343/223578729-5dbdeb56-54f0-4286-bdb3-a233f3fbd886.png)
 
 
