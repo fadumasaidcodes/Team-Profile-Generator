@@ -6,12 +6,12 @@ box-sizing: border-box;
 
 .team-heading{
 background-color:#e847c0;
-color: #fff;
+color: #e9e4eb;
 }
 
 .card-header{
-    background-color: #0077F7;
-    color: #cc0bf3;
+    background-color: #e847c0;
+    color: #e3f0eb;
 }
 
 .card{
