@@ -63,8 +63,9 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 ---
 ## screenshots 
-![Screenshot 2023-03-07 at 23 21 13](https://user-images.githubusercontent.com/102771343/223578001-52708390-48ca-4be7-8512-a02b3d5c68c6.png)
-![Screenshot 2023-03-07 at 23 24 25](https://user-images.githubusercontent.com/102771343/223578201-20d1cc94-4e30-4086-9711-778346768ebd.png)
+![Screenshot 2023-03-07 at 23 27 03](https://user-images.githubusercontent.com/102771343/223578588-64152d03-239f-4e3b-94fc-bba4fdf0d35d.png)
+![Screenshot 2023-03-07 at 23 27 53](https://user-images.githubusercontent.com/102771343/223578729-5dbdeb56-54f0-4286-bdb3-a233f3fbd886.png)
+
 
 
 ## Mock-Up
